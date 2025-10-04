@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_Tablets"
+            android:icon="@drawable/tablet"
+            android:title="Tablets" />
+
+        <item
+            android:id="@+id/nav_Celulares"
+            android:icon="@drawable/mobile"
+            android:title="Celulares" />
+
+        <item
+            android:id="@+id/nav_Fones"
+            android:icon="@drawable/earbuds"
+            android:title="Fones" />
+
+        <item
+            android:id="@+id/nav_Computadores"
+            android:icon="@drawable/computer"
+            android:title="Computadores" />
+
+        <item
+            android:id="@+id/nav_Notebooks"
+            android:icon="@drawable/laptop"
+            android:title="Notebooks" />
+
+        <item
+            android:id="@+id/nav_Carregadores"
+            android:icon="@drawable/cable"
+            android:title="Carregadores" />
+
+    </group>
+</menu>

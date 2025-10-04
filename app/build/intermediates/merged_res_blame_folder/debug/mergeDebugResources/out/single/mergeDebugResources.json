@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_icadd.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\icadd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_eletronico.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_eletronico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_beleza.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_beleza.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_livros.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_livros.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/menu_nav_menu.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/drawable_mobile.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/drawable/mobile.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/drawable_apple.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/drawable/apple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_beauty.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\beauty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_noteboks.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_noteboks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_logoamericanas.png.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\logoamericanas.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_tablets.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_tablets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\menu.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/drawable_earbuds.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/drawable/earbuds.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_notebooks.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_notebooks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\img.png"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/drawable_laptop.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/drawable/laptop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_alimentos.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_alimentos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_toy.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\toy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_celulares.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_celulares.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_carregadores.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_carregadores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/drawable_computer.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/drawable/computer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_computadores.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_computadores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_computer.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\computer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_carrinho.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\carrinho.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/layout_nav_header.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/layout/nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_carrinho.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_perfil.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_perfil.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_food.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_brinquedo.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_brinquedo.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/drawable_tablet.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/drawable/tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_chair.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\chair.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\drawable_baseline_book_24.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\drawable\\baseline_book_24.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-debug-33:/drawable_cable.xml.flat",
+        "source": "com.Wendell.navigation.app-main-35:/drawable/cable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_fones.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_fones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-debug-33:\\layout_fragment_casa.xml.flat",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_casa.xml"
+    }
+]

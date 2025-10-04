@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_tablets.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_tablets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_carregadores.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_carregadores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_computadores.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_computadores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_eletronico.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_eletronico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_noteboks.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_noteboks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_notebooks.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_notebooks.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_livros.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_livros.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_casa.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_casa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_perfil.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_beleza.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_beleza.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_alimentos.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_alimentos.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-mergeDebugResources-32:/layout/nav_header.xml",
+        "source": "com.Wendell.navigation.app-main-35:/layout/nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_carrinho.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_carrinho.xml"
+    },
+    {
+        "merged": "com.Wendell.navigation.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.Wendell.navigation.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_brinquedo.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_brinquedo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_fones.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_fones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-mergeDebugResources-32:\\layout\\fragment_celulares.xml",
+        "source": "C:\\Users\\Pc\\.gradle\\daemon\\8.13\\com.Wendell.navigation.app-main-35:\\layout\\fragment_celulares.xml"
+    }
+]

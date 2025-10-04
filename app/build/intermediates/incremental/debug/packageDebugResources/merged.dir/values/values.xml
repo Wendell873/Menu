@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="principal">#A8C6FB</color>
+    <color name="transparente">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Apple</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_close">Fechando menu</string>
+    <string name="nav_open">Abrindo menu</string>
+    <style name="Base.Theme.NavigationDrawer" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.NavigationDrawer" parent="Base.Theme.NavigationDrawer"/>
+</resources>
