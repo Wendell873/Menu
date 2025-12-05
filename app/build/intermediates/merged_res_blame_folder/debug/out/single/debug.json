@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_mobile.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/mobile.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_cable.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/cable.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_computadores.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_computadores.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_perfil.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/perfil.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_earbuds.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/earbuds.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_home.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/home.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_carregadores.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_carregadores.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.wendell.menu.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.wendell.menu.app-pngs-30:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_activity_register.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_menu.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_activity_login.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_computer.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/computer.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.wendell.menu.app-pngs-30:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_fones.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_fones.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_carrinho.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_carrinho.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_menu.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/menu.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_item_task.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.wendell.menu.app-pngs-30:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.wendell.menu.app-pngs-30:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/menu_bottom_menu.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.wendell.menu.app-pngs-30:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_celulares.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_celulares.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_perfil.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_perfil.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_laptop.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/laptop.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/menu_nav_menu.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_nav_header.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_icadd.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/icadd.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_notebooks.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_notebooks.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_carrinho.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/carrinho.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_tablets.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_tablets.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_fragment_home.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/layout_dialog_task_form.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/layout/dialog_task_form.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_tablet.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/tablet.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable_apple.xml.flat",
+        "source": "com.wendell.menu.app-main-36:/drawable/apple.xml"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.wendell.menu.app-pngs-30:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.wendell.menu.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.wendell.menu.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]

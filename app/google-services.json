@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063425445612",
+    "project_id": "kanbanmenu",
+    "storage_bucket": "kanbanmenu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063425445612:android:0a5d2aaaad8d4ead465fc9",
+        "android_client_info": {
+          "package_name": "com.wendell.menu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPw7kbyGpHDvzo50cuFTuWVJ-CgGcdVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

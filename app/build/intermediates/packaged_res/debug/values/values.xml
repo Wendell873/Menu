@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="principal">#A8C6FB</color>
+    <color name="transparente">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Apple</string>
+    <string name="gcm_defaultSenderId" translatable="false">1063425445612</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvPw7kbyGpHDvzo50cuFTuWVJ-CgGcdVE</string>
+    <string name="google_app_id" translatable="false">1:1063425445612:android:0a5d2aaaad8d4ead465fc9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvPw7kbyGpHDvzo50cuFTuWVJ-CgGcdVE</string>
+    <string name="google_storage_bucket" translatable="false">kanbanmenu.firebasestorage.app</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_close">Fechando menu</string>
+    <string name="nav_open">Abrindo menu</string>
+    <string name="project_id" translatable="false">kanbanmenu</string>
+    <style name="Base.Theme.NavigationDrawer" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.NavigationDrawer" parent="Base.Theme.NavigationDrawer"/>
+</resources>
